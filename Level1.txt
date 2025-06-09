@@ -2,7 +2,6 @@ Hi amar and Sadaf
 
 this is our level1.txt file which is git local repo
 
-this is the 2nd time i am editing this file to show you a new command
+lets add it and commit again.
 
-lets see how it goes.
-
+thank you.
